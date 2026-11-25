@@ -26,6 +26,9 @@ Program działa w konsoli i wykorzystuje automatyczną obsługę czasu do symulo
 - **POCIAG** – pociąg przejeżdża przez przejazd.
 - **OTWIERANIE** – rogatki są w trakcie otwierania.
 
+  <img width="871" height="656" alt="diagram" src="https://github.com/user-attachments/assets/1874deae-8a1d-40f5-8caf-c5fdb47be6f1" />
+
+
 ## Sterowanie programem
 
 - **1** – Wykryj pociąg.
