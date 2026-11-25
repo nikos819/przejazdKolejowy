@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795611246 source:c:\users\admin\documents\przejazdkolejowy\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
