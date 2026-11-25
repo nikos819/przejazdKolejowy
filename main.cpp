@@ -1,20 +1,16 @@
-
 #include <iostream>
 #include <windows.h>
 #include <conio.h>
 
+#define OTWARTY 0
+#define ZAMYKANIE 1
+#define ZAMKNIETY 2
+#define POCIAG 3
+#define OTWIERANIE 4
+
 using namespace std;
 
-enum Stan
-{
-    OTWARTY,
-    ZAMYKANIE,
-    ZAMKNIETY,
-    POCIAG,
-    OTWIERANIE
-};
-
-Stan stan = OTWARTY;
+int stan = OTWARTY;
 
 bool samochod = false;
 bool pociag = false;
